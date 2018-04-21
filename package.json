@@ -1,0 +1,17 @@
+{
+  "name": "kcna_scraper",
+  "version": "0.0.1",
+  "description": "Scrape korean propaganda.",
+  "main": "src/index.js",
+  "author": "Kyle Shovan",
+  "dependencies": {
+    "axios": "latest",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.5",
+    "moment": "^2.15.2",
+    "q": "^1.4.1",
+    "slugify": "^1.2.9",
+    "striptags": "^3.0.1"
+  }
+}
