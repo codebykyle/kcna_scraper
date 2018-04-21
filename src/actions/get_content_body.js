@@ -75,11 +75,11 @@ module.exports = {
                     return result;
                 });
             }).then((body) => {
-                let finalObj = Object.assign({}, data, {
+                return Object.assign({}, data, {
                     articles: content
                 });
-
-                contentObject.push(finalObj);
+            }).then((obj) => {
+                this.saveData(data, obj)
             }).then(() => {
                 succ()
             }).catch((err) => {
@@ -88,8 +88,8 @@ module.exports = {
         })
     },
 
-    saveData(data) {
-        return fs.writeFileSync('./cache/final_export.json', JSON.stringify(data, null, 4), {
+    saveData(data, obj) {
+        return fs.writeFileSync('./cache/juche/'  +moment(data.date).format('YYYY-MM-DD') + '_juche.json', JSON.stringify(obj, null, 4), {
             flag: 'w',
             encoding: 'utf8'
         });
@@ -106,8 +106,7 @@ module.exports = {
                 return this.runAllArticles(data)
             })
             .then(() => {
-                this.saveData(contentObject);
-                console.log('Finished Body Parse. Cache file: /final_export.json');
+                console.log('Finished Body Parse. Cache file: /juche/*.json');
             }).catch((err) => {
                 console.log(err);
             });
