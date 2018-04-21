@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a83e4499-98ba-4e55-93f5-5b652f8f3f00" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/actions/get_content_body.js" afterPath="$PROJECT_DIR$/src/actions/get_content_body.js" />
+      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-01_juche.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-02_juche.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-03_juche.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-04_juche.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-05_juche.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-06_juche.json" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +26,7 @@
           <file leaf-file-name="get_available_dates.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/actions/get_available_dates.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3150">
+                <state relative-caret-position="0">
                   <caret line="126" column="3" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
                   <folding />
                 </state>
@@ -49,71 +53,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="200">
                   <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="1997-01-01_juche.json" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/cache/juche/1997-01-01_juche.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="1997-01-02_juche.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/cache/juche/1997-01-02_juche.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="1997-01-03_juche.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/cache/juche/1997-01-03_juche.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="1997-01-04_juche.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/cache/juche/1997-01-04_juche.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="1997-01-05_juche.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/cache/juche/1997-01-05_juche.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="325">
-                  <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="1997-01-06_juche.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/cache/juche/1997-01-06_juche.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -320,12 +264,6 @@
             <path>
               <item name="kcna_scraper" type="b2602c69:ProjectViewProjectNode" />
               <item name="kcna_scraper" type="462c0819:PsiDirectoryNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-              <item name="juche" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kcna_scraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kcna_scraper" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -386,18 +324,17 @@
       <option name="presentableId" value="Default" />
       <updated>1524218442125</updated>
       <workItem from="1524218443498" duration="45418000" />
-      <workItem from="1524332819764" duration="1069000" />
+      <workItem from="1524332819764" duration="1105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46487000" />
+    <option name="totallyTimeSpent" value="46523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3829" y="-11" width="3862" height="2122" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.112239584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.112239584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -584,7 +521,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/actions/get_available_dates.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
+        <state relative-caret-position="0">
           <caret line="126" column="3" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
           <folding />
         </state>
