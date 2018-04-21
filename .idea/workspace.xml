@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a83e4499-98ba-4e55-93f5-5b652f8f3f00" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-01_juche.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-02_juche.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-03_juche.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-04_juche.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-05_juche.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/juche/1997-01-06_juche.json" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/juche/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,11 +48,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="200">
                   <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/cache/juche/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -324,12 +329,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524218442125</updated>
       <workItem from="1524218443498" duration="45418000" />
-      <workItem from="1524332819764" duration="1105000" />
+      <workItem from="1524332819764" duration="1288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46523000" />
+    <option name="totallyTimeSpent" value="46706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3829" y="-11" width="3862" height="2122" extended-state="6" />
@@ -627,6 +632,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cache/juche/1997-01-01_juche.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/juche/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
