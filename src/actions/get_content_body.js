@@ -18,8 +18,8 @@ module.exports = {
         let parsedData = result.data.split('<hr>')
             .map((item) => striptags(item.trim()))
             .filter((item) => {
-                return item !== '\r\nBACK\r\nHOME\r\n\r\n' &&
-                    item !== '\r\n\r\nPast news \r\n\r\n'
+                return !item.toLowerCase().includes('back home') &&
+                       !item.toLowerCase().includes('past news')
             });
 
         let indexFromUrl = article_data.url.match(/#[0-9]+/g)[0].replace('#', '');
